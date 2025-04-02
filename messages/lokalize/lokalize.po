@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-23 22:41+0100\n"
+"POT-Creation-Date: 2025-03-24 08:43+0100\n"
 "PO-Revision-Date: 2025-03-03 20:07+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
 "Language-Team: Thai\n"
@@ -1548,7 +1548,7 @@ msgid " (recovered)"
 msgstr "(กู้คืน)"
 
 #. +> trunk6 stable6
-#: src/editortab.cpp:695 src/lokalizemainwindow.cpp:971
+#: src/editortab.cpp:695 src/lokalizemainwindow.cpp:958
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/editortab.cpp:697 src/editortab.cpp:1275
-#: src/glossary/glossarywindow.cpp:348 src/lokalizemainwindow.cpp:973
+#: src/glossary/glossarywindow.cpp:348 src/lokalizemainwindow.cpp:960
 #, kde-format
 msgctxt "@title:window"
 msgid "Warning"
@@ -2548,7 +2548,7 @@ msgid "&Window Color Scheme"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/lokalizemainwindow.cpp:791
+#: src/lokalizemainwindow.cpp:780
 #, fuzzy, kde-format
 #| msgctxt "@info"
 #| msgid "Error opening the following files:"
